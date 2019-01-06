@@ -1,5 +1,5 @@
 <div class="container">
-  <h1>This is an Admin page for Plugin</h1>
+  <h1>This is an Admin page for Plugin 1</h1>
   <?php settings_errors(); ?>
   <form class="" action="options.php" method="post">
     <?php
