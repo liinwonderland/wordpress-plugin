@@ -1,0 +1,17 @@
+{
+    "name": "liene/morrigan-plugin",
+    "description": "Morrigan Plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "liinwonderland",
+            "email": "liene.tunne@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "psr-4": {"Inc\\": "./inc"}
+    }
+}

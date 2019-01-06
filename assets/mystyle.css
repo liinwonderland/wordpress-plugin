@@ -1,0 +1,26 @@
+.morrigan-prices{
+  margin: 10px 0;
+}
+.morrigan-prices ul {
+  list-style: none;
+  width: auto;
+  display: flex
+}
+.morrigan-prices .morrigan-tab-switcher {
+  display: inline-block;
+  cursor: pointer;
+  margin-right: 25px;
+  border-bottom: solid 1px black
+}
+.morrigan-prices .price-category-title{
+  font-weight: bold;
+}
+
+.imageHolder{
+  height: 300px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-background-size: cover;
+  background-size: cover;
+  margin-bottom: 5px;
+}
