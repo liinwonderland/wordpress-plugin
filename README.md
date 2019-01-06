@@ -5,7 +5,7 @@
   - Custom Contact Form;
   - Custom Recent Posts;
   - FAQ;
-  - Pictures with text and add different animations.
+  - Pictures, text and different animations.
 - Admin Page
 
 * Needs Bootstrap in Theme
